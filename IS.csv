@@ -1,0 +1,5 @@
+PS;Geschwindigkeit;Beschleunigung;Spritverbrauch;Preis;Species
+120;170;2;8,5;30.000;setosa
+100;170;2;9;25.000;versicolor
+180;220;3;11,5;50.000;virginica
+;;;;;
